@@ -1,0 +1,4 @@
+#thumbnails{
+    display: flex;
+    flex-wrap: wrap;
+}
