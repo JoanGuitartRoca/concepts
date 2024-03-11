@@ -1,0 +1,16 @@
+{
+    "name": "concepts",
+    "description": "Basic API js Concepts",
+    "version": "0.0.0",
+    "private": true,
+    "license": "MIT",
+    "stackblitz": {
+      "startCommand": "npm start"
+    },
+    "scripts": {
+      "start": "live-server"
+    },
+    "devDependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
